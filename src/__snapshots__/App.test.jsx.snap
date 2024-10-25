@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test App component loads and displays greeting 1`] = `
+<input
+  placeholder="enter name"
+  type="text"
+/>
+`;
